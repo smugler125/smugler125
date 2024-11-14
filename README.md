@@ -31,7 +31,7 @@
 
 ***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/smugler125/AUTOMATIC-BOT/fork) It***
 
-***2.`Get Session ID` by  [`PAIRING CODE`](https://smug-gler-sns.onrender.com/pair) or [`PAIR CODE 2`](https://smug-gler-sns.onrender.com/)***
+***2.`Get Session ID` by  [`PAIRING CODE`](https://smug-gler-onrender.com/pair) or [`PAIR CODE 2`](https://smug-gler-onrender.com/)***
 * - Copy The Session ID for it Will be needed during deployment*
 
 ***
