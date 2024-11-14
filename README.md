@@ -3,16 +3,16 @@
 
 ***
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines= THANKS FOR CHOOSING +SMUGGLER-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+SMUGGLER+TECH;RELEASED+12.11.2024" alt="Typing SVG" /></a>
+<a href="https://ibb.co/5X0c4HM"><img  src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines= THANKS FOR CHOOSING +SMUGGLER-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+SMUGGLER+TECH;RELEASED+12.11.2024" alt="Typing SVG" /></a>
   </p>
-    <img alt="SMUGGLER-MD" width="700" height="300" src="https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg">
+    <img alt="SMUGGLER-MD" width="700" height="300"  src="https://i.ibb.co/Y4CjQsR/IMG-20241114-WA0099.jpg">
 <p align="center">
 <p align="center">
-<a href="https://github.com/Beltahk/SCENE-MRM"><img title="Author" src="https://img.shields.io/badge/SCENE-MRM-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/smugler125"><img title="Author" src="https://img.shields.io/badge/smugler-black?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/smugler125?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Beltahtech?label=Followers&style=social"></a>
-<a href="https://github.com/Huaweike/AUTOMATIC-BOT/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Huaweike/AUTOMATIC-BOT?&style=social"></a>
+<a href="https://github.com/smugler125?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/smugler125?label=Followers&style=social"></a>
+<a href="https://github.com/smugler125/AUTOMATIC-BOT/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/smugler125/AUTOMATIC-BOT?&style=social"></a>
 <a href="https://github.com/smugler125/AUTOMATIC-BOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Huaweike/AUTOMATIC-BOT?style=social"></a>
 <a href="https://https://github.com/smugler125/AUTOMATIC-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/smugler125/AUTOMATIC-BOT?label=Watching&style=social"></a>
 
