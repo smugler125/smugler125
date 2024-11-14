@@ -14,7 +14,7 @@
 <a href="https://github.com/smugler125?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/smugler125?label=Followers&style=social"></a>
 <a href="https://github.com/smugler125/AUTOMATIC-BOT/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/smugler125/AUTOMATIC-BOT?&style=social"></a>
 <a href="https://github.com/smugler125/AUTOMATIC-BOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Huaweike/AUTOMATIC-BOT?style=social"></a>
-<a href="https://https://github.com/smugler125/AUTOMATIC-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/smugler125/AUTOMATIC-BOT?label=Watching&style=social"></a>
+<a href="https://https://github.com/smugler125/AUTOMATIC-BOT/watchers"<a href="https://ibb.co/5X0c4HM"><img   src="https://img.shields.io/github/watchers/smugler125/AUTOMATIC-BOT?label=Watching&style=social"></a>
 
 ***
 
