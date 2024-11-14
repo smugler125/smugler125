@@ -8,13 +8,13 @@
     <img alt="SMUGGLER-MD" width="700" height="500"  src="https://i.ibb.co/Y4CjQsR/IMG-20241114-WA0099.jpg">
 <p align="center">
 <p align="center">
-<a href="https://github.com/smugler125"><img title="Author" src="https://img.shields.io/badge/smugler-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/smugler125"><img title="Author" src="https://ibb.co/5X0c4HM/badge/smugler-black?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/smugler125?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/smugler125?label=Followers&style=social"></a>
-<a href="https://github.com/smugler125/AUTOMATIC-BOT/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/smugler125/AUTOMATIC-BOT?&style=social"></a>
-<a href="https://github.com/smugler125/AUTOMATIC-BOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Huaweike/AUTOMATIC-BOT?style=social"></a>
-<a href="https://https://github.com/smugler125/AUTOMATIC-BOT/watchers"<a href="https://ibb.co/5X0c4HM"><img   src="https://img.shields.io/github/watchers/smugler125/AUTOMATIC-BOT?label=Watching&style=social"></a>
+<a href="https://github.com/smugler125?tab=followers"><img title="Followers" src="https://ibb.co/5X0c4HM/github/followers/smugler125?label=Followers&style=social"></a>
+<a href="https://github.com/smugler125/AUTOMATIC-BOT/stargazers/"><img title="STARS" src="https://ibb.co/5X0c4HM/github/stars/smugler125/AUTOMATIC-BOT?&style=social"></a>
+<a href="https://github.com/smugler125/AUTOMATIC-BOT/network/members"><img title="Forks" src="https://ibb.co/5X0c4HM/github/forks/smugler125/AUTOMATIC-BOT?style=social"></a>
+<a href="https://https://github.com/smugler125/AUTOMATIC-BOT/watchers"<a href="https://ibb.co/5X0c4HM"><img   src="https://ibb.co/5X0c4HM/github/watchers/smugler125/AUTOMATIC-BOT?label=Watching&style=social"></a>
 
 ***
 
