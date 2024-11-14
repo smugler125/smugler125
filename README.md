@@ -5,7 +5,7 @@
 
 <a href="https://ibb.co/5X0c4HM"><img  src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines= THANKS FOR CHOOSING +SMUGGLER-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+SMUGGLER+TECH;RELEASED+12.11.2024" alt="Typing SVG" /></a>
   </p>
-    <img alt="SMUGGLER-MD" width="700" height="300"  src="https://i.ibb.co/Y4CjQsR/IMG-20241114-WA0099.jpg">
+    <img alt="SMUGGLER-MD" width="700" height="200"  src="https://i.ibb.co/Y4CjQsR/IMG-20241114-WA0099.jpg">
 <p align="center">
 <p align="center">
 <a href="https://github.com/smugler125"><img title="Author" src="https://img.shields.io/badge/smugler-black?style=for-the-badge&logo=github"></a>
