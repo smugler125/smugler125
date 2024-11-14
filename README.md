@@ -1,5 +1,4 @@
-https://readme-typing-svg.demolab.com/?lines=WELCOME TO SMUGGLER MD+line+of+SMUGGLER TECH;Second+line+of+  we develop a bot that assists everyone in daily activities- 👋 Hi, I’m @smugler125
--
+https://readme-typing-svg.demolab.com/?lines= SMUGGLER-MD BOT
 
 
 <!---
