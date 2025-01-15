@@ -97,7 +97,7 @@
 <body>
 
   <div class="content-wrapper">
-    <img src="https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg" alt="Background Image" class="background-image">
+    <img src="https://i.ibb.co/Y4CjQsR/IMG-20241114-WA0099.jpg" alt="Background Image" class="background-image">
     <div>
       <button onclick="window.open(`/wasiqr`)" class="btn">QR Code</button>
       <button onclick="window.open(`/pair`)" class="btn">Pair Code</button>
